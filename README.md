@@ -9,3 +9,5 @@ em diversas áreas, incluindo aprendizado de máquina, estatística, ciência de
 informações de maneira iterativa.
 
 **Leia o arquivo em PDF**
+
+R script em breve!
