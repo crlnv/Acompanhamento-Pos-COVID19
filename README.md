@@ -7,3 +7,5 @@ as probabilidades são representações subjetivas de conhecimento e podem ser a
 com a probabilidade da evidência dada essa crença (verossimilhança) para calcular a probabilidade posterior. A inferência bayesiana é amplamente aplicada 
 em diversas áreas, incluindo aprendizado de máquina, estatística, ciência de dados e análise de decisões, proporcionando uma estrutura flexível para lidar com incertezas e integrar 
 informações de maneira iterativa.
+
+**Leia o arquivo em PDF**
